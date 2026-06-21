@@ -3,7 +3,7 @@ Hands-on coding exercises and notes for learning Python step by step
 # 🐍 Python for Machine Learning
 
 Welcome to **Python-for-Machine-Learning**!  
-This repository documents my journey of learning Python and applying it to machine learning concepts using **Jupyter Notebooks** and **Google Colab**.
+This repository comprises learning basics of Python and applying it to machine learning concepts using **Jupyter Notebooks** and **Google Colab**.
 
 ## 📘 Overview
 This repo contains step-by-step notebooks covering:
